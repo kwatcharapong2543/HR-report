@@ -1,5 +1,5 @@
 # HR-report
-- 2nd Project HR report 
+- 2nd Personal project
 
 วัตถุประสงค์ของโปรเจคนี้คือ
 

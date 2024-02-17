@@ -35,7 +35,8 @@
 
 4.หลังจากที่เขียนโค้ดแล้วนำผลลัพธ์ที่ได้นั้นไปสร้าง Dashboard
 
-[HR project.pdf](https://github.com/kwatcharapong2543/HR-report/files/14319329/HR.project.pdf)
+![PowerBI HR](https://github.com/kwatcharapong2543/HR-report/assets/158846091/685bf2ec-5e44-4772-bde8-7102db0fe145)
+
 
 
 
